@@ -41,7 +41,7 @@ make all
 ```
 
 ### Network Streaming
-Using the instructor's server:
+Using an example server:
 ```bash
 # Source client
 ./tcp_source_client 128000 arlabs.dyndns.org 5001 svega.wav
